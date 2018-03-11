@@ -1,2 +1,2 @@
-# ugopool
+# UGOP
 Unity GameObject Pool
